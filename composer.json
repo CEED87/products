@@ -1,0 +1,15 @@
+{
+    "name": "dmitrijpopok/htdocs",
+    "authors": [
+        {
+            "name": "Dmitry"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["autoload/autoload.php"],
+        "PSR-4": {
+            "": "classes/"
+        }
+    }
+}
